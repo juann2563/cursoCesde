@@ -1,2 +1,0 @@
-# cursoCesde
-prueba repositorio clase
